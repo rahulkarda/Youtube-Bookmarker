@@ -1,6 +1,8 @@
 ## Youtube Bookmark Extension
 Youtube Bookmarker is a Chrome browser extension built using JavaScript and the new iteration of the web extensions platform, called Manifest V3.
-
+<br>
+The extension can be used to bookmark Youtube videos at a specific time and by clicking on the bookmarks tab, the video will load at that specific time.
+<br>
 The extension will be published on the Chrome Web Store.
 
 <a target="_blank" href="https://youtubebookmark.netlify.app/">
