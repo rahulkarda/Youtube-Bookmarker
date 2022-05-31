@@ -8,7 +8,7 @@ The extension can be used to bookmark Youtube videos at a specific time and by c
 The extension will be published on the Chrome Web Store.
 
 <a target="_blank" href="https://youtubebookmark.netlify.app/">
-          <img src="https://github.com/rahulkarda/Youtube-Bookmarker/blob/master/images/youtubebookmarker.jpg?raw=true" width="100%" alt="Youtube Bookmark Extension"/>
+          <img src="https://github.com/rahulkarda/Youtube-Bookmarker/blob/master/assets/youtubebookmarker1.png?raw=true" width="100%" alt="Youtube Bookmark Extension"/>
 </a>
 <br>
 
